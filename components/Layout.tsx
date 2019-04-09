@@ -22,6 +22,7 @@ class Layout extends React.PureComponent<Props> {
             name="viewport"
             content="initial-scale=1.0, width=device-width"
           />
+          <link rel="stylesheet" type="text/css" href="/static/nprogress.css" />
         </Head>
         <header>
           <nav>
