@@ -1,0 +1,1 @@
+# nextjs-withApolloAuth-boilerplate
