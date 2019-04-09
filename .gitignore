@@ -1,0 +1,12 @@
+node_modules/
+generated/
+.eslintcache
+.next/
+.vscode/
+build/
+dist
+.env
+*.log
+.env
+.DS_Store
+.babelrc

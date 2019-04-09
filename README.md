@@ -1,1 +1,1 @@
-# nextjs-withApolloAuth-boilerplate
+# nextjs-withApolloAuth
